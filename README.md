@@ -66,6 +66,7 @@ Primary research tools for gathering direct market and customer feedback.
 - [Typeform](https://typeform.com) - Conversational surveys for customer and market research.
 - [Qualtrics](https://qualtrics.com) - Enterprise experience management and market research platform.
 - [Pollfish](https://pollfish.com) - On-demand consumer survey panels.
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 ## Company & Funding Data
 
